@@ -31,18 +31,6 @@
 # }
 
 def naming_system
-  portion_1 = {
-  :kingdom => {
-    :phylum => {
-      :class => {}
-    }
-    :order => {
-      :family => {
-        :genus => {}
-      }
-      :species => {}
-  }
-  }
   
   # Remember:
   #  Kingdom
