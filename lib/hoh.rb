@@ -35,7 +35,7 @@ def naming_system
     :Kigdom => {
       :Phylum => {
         :Class => {}
-      },
+      }
       :Order => {}
     }
   }
