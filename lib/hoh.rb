@@ -31,12 +31,14 @@
 # }
 
 def naming_system
-    kigdom = {
+  starting_node = {
+    :Kigdom = {
       :Phylum => {
         :Class => {}
       },
       :Order => {}
     }
+  }
 end
   # Remember:
   #  Kingdom
