@@ -32,26 +32,26 @@
 
 def naming_system
    {
-#   label: "Kingdom",
-#   sub_category: {
-#     label: "Phylum",
-#     sub_category: {
-#       label: "Class", 
+  label: "Kingdom",
+  sub_category: {
+    label: "Phylum",
+   sub_category: {
+     label: "Class", 
         sub_category: {
-#      label: "Order",
+    label: "Order",
           sub_category: {
             {
-#   label: "Family",
-#   sub_category: {
-#     label: "Genus",
-#   }
-# }
+        label: "Family",
+  sub_category: {
+     label: "Genus",
+   }
+ }
           }
-#   }
-#     }
-#   }
-# }
-# 
+   }
+     }
+   }
+ }
+ end
   
   
   hoh = {
@@ -62,7 +62,6 @@ def naming_system
     },
     :Order => {}
   }
-end
   # Remember:
   #  Kingdom
   #  Phylum
