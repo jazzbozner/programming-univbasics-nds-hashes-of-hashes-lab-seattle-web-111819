@@ -36,11 +36,11 @@ def naming_system
     :phylum => {
       :class => {}
     }
-    :order => {}
-    :family => {
-      :genus => {}
-    }
-    :species => {}
+    :order => {
+      :family => {
+        :genus => {}
+      }
+      :species => {}
   }
   }
   
