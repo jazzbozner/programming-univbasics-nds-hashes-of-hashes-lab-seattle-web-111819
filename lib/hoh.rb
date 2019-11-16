@@ -36,7 +36,7 @@ def naming_system
       :Phylum => {
         :Class => {}
       }
-    }
+    },
     :Order => {}
   }
 end
