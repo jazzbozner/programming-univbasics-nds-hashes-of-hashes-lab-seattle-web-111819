@@ -34,7 +34,6 @@ def naming_system
   starting_node = {
     :Kigdom => {
       :Phylum => {
-        :Order => {},
         :Class => {}
       },
       :Order => {}
