@@ -55,15 +55,6 @@ def naming_system
   }
  end
   
-  
-  hoh = {
-    :Kigdom => {
-      :Phylum => {
-        :Class => {}
-      }
-    },
-    :Order => {}
-  }
   # Remember:
   #  Kingdom
   #  Phylum
