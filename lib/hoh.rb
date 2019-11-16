@@ -31,8 +31,8 @@
 # }
 
 def naming_system
-  hoh = {
-    :Kigdom = {
+  starting_node = {
+    :Kigdom => {
       :Phylum => {
         :Class => {}
       },
