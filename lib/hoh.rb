@@ -31,7 +31,7 @@
 # }
 
 def naming_system
-  PORTION_1 = {
+  portion_1 = {
   :kingdom => {
     :phylum => {
       :class => {}
